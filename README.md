@@ -30,23 +30,16 @@ Mi trabajo se centra en combinar tecnologías modernas con buenas prácticas de 
 
 ## Stack principal
 
-### Backend
-- PHP
-- Laravel
-- MySQL
-- Node.js
-- APIs REST
-
-### Frontend
-- JavaScript
-- Vue.js
-- HTML5
-- CSS3
-
-### Infraestructura
-- AWS
-- Linux Servers
-- Deploys y configuración de entornos
+<p align="center">
+  <img src="assets/images/laravel.svg" alt="Laravel" width="120" height="42" />
+  <img src="assets/images/php.svg" alt="PHP" width="110" height="42" />
+  <img src="assets/images/mysql.svg" alt="MySQL" width="130" height="42" />
+  <img src="assets/images/javascript.png" alt="JavaScript" width="42" height="42" />
+  <img src="assets/images/vuejs.svg" alt="Vue.js" width="42" height="42" />
+  <img src="assets/images/nodejs.svg" alt="Node.js" width="88" height="42" />
+  <img src="assets/images/aws.png" alt="AWS" width="90" height="42" />
+  <img src="assets/images/linux.png" alt="Linux" width="42" height="42" />
+</p>
 
 ---
 
